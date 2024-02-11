@@ -1,0 +1,2 @@
+A rede de computadores tem como prática a conexão de dois ou mais dispositivos de computação, criando uma infraestrutura na qual eles podem trocar dados, recursos e softwares.
+Nesse modulo será incluido os dispositivos de rede, tipos de rede, protocolos de rede, endereço IP e modelo OSI.
