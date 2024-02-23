@@ -19,4 +19,5 @@
 ## Componentes Chave
 - Criptografia: SSL e TLS usam algoritmos poderosos para proteger os dados, garantindo que sejam ilegíveis por qualquer pessoa sem as chaves de descriptografia adequadas.
 - Autenticação: Os certificados digitais SSL/TLS verificam as identidades do cliente e do servidor, garantindo confiança e autenticidade.
-- Integridade: Esses protocolos de segurança utilizam códigos de autenticação para garantir que os dados enviados entre cliente e servidor não foram adulterados durante a transmissão.
+- Integridade: Esses protocolos de segurança utilizam códigos de autenticação para garantir que os dados enviados entre cliente e servidor não foram adulterados durante a transmissão. 
+
